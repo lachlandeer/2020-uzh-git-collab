@@ -10,6 +10,9 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
+- name: Nicole
+- affiliation: UZH
+- 
 keywords:
 
 - 3 to 6 keywords
