@@ -12,6 +12,10 @@ authors:
 
 - name: Aladin
   affiliation: University of Nothing  
+
+- name: Nicola Benigni
+  affiliation: University of Zurich
+
 - name: Martin Stancsics
   affiliation: University of Zürich
 
