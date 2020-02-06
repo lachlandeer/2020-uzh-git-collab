@@ -10,11 +10,12 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
-<<<<<<< HEAD
+- name: Aladin
+  affiliation: University of Nothing  
+
 - name: Nicola Benigni
   affiliation: University of Zurich
 
-=======
 - name: Martin Stancsics
   affiliation: University of Zürich
 
@@ -25,7 +26,6 @@ authors:
   affiliation: University of Zurich
 
 
->>>>>>> origin/devel
 keywords:
 
 - 3 to 6 keywords
