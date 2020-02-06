@@ -10,6 +10,9 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
+- name: Frankenstein
+- affiliation: Lachlan's Basement University of Advanced Technology 
+
 keywords:
 
 - 3 to 6 keywords
