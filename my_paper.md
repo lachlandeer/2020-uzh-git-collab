@@ -12,6 +12,12 @@ authors:
 
 - name: Frankenstein
 - affiliation: Lachlan's Basement University of Advanced Technology 
+- name: Martin Stancsics
+  affiliation: University of Zürich
+
+- name: Lexi Schubert
+  affiliation: University of Zurich
+
 
 keywords:
 
