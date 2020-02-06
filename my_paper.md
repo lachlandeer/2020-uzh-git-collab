@@ -10,6 +10,9 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
+- name: Lorenzo Pesaresi
+  affiliation: University of Bologna
+
 keywords:
 
 - 3 to 6 keywords
