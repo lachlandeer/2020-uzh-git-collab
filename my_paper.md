@@ -12,6 +12,15 @@ authors:
 
 - name: Aladin
   affiliation: University of Nothing  
+- name: Martin Stancsics
+  affiliation: University of Zürich
+
+- name: Lexi Schubert
+  affiliation: University of Zurich
+
+- name: Nicola Benigni
+  affiliation: University of Zurich
+
 
 keywords:
 
