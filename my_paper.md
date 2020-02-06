@@ -10,17 +10,15 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
-<<<<<<< HEAD
 - name: Lorenzo Pesaresi
   affiliation: University of Bologna
-=======
+  
 - name: Martin Stancsics
   affiliation: University of Zürich
 
 - name: Lexi Schubert
   affiliation: University of Zurich
 
->>>>>>> origin/devel
 
 keywords:
 
