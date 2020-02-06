@@ -10,8 +10,13 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
-names: Zeyu
+
+- names: Zeyu
   afflication: PP4RS 
+
+- name: Nicola Benigni
+  affiliation: University of Zurich
+
 - name: Martin Stancsics
   affiliation: University of Zürich
 
@@ -22,6 +27,7 @@ names: Zeyu
   affiliation: University of Zurich
 
 
+>>>>>>> origin/devel
 keywords:
 
 - 3 to 6 keywords
